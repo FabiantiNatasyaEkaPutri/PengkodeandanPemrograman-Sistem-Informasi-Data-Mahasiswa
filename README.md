@@ -18,3 +18,5 @@ TAMPILAN WEBSITE BARU
 # ERD
 ![ERD](https://github.com/FabiantiNatasyaEkaPutri/PengkodeandanPemrograman-Sistem-Informasi-Data-Mahasiswa/assets/167233440/aed078b4-0816-4ef5-98f6-1469d2b3491e)
 
+referensi
+https://github.com/farhanadeata/WebCRUD
